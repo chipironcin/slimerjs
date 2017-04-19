@@ -8,13 +8,13 @@
   "main": "./src/phantom-protocol.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zubron/slimerjs.git"
+    "url": "git+https://github.com/chipironcin/slimerjs.git"
   },
   "author": "",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/zubron/slimerjs/issues"
+    "url": "https://github.com/chipironcin/slimerjs/issues"
   },
-  "homepage": "https://github.com/zubron/slimerjs#readme",
+  "homepage": "https://github.com/chipironcin/slimerjs#readme",
   "dependencies": {}
 }
