@@ -1,7 +1,7 @@
 
 pref("toolkit.defaultChromeURI", "chrome://slimerjs/content/slimerjs.xul");
 pref("browser.dom.window.dump.enabled", true);
-pref("javascript.options.strict", true);
+pref("javascript.options.strict", false);
 pref("browser.cache.disk.enable", false);
 pref("app.update.enabled", false);
 pref("extensions.update.enabled", false);
